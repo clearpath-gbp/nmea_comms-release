@@ -1,3 +1,26 @@
+## nmea_comms (noetic) - 1.2.0-1
+
+The packages in the `nmea_comms` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic nmea_comms` on `Sat, 23 Jan 2021 00:40:59 -0000`
+
+The `nmea_comms` package was released.
+
+Version of package(s) in repository `nmea_comms`:
+
+- upstream repository: https://github.com/ros-drivers/nmea_comms.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## nmea_comms (melodic) - 1.2.0-0
 
 The packages in the `nmea_comms` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic nmea_comms` on `Fri, 02 Aug 2019 15:17:55 -0000`
