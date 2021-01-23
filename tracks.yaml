@@ -128,7 +128,7 @@ tracks:
     last_version: 1.2.0
     name: nmea_comms
     patches: null
-    release_inc: '2'
+    release_inc: '3'
     release_repo_url: https://github.com/clearpath-gbp/nmea_comms-release.git
     release_tag: :{version}
     ros_distro: noetic
