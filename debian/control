@@ -1,0 +1,12 @@
+Source: ros-noetic-nmea-comms
+Section: misc
+Priority: optional
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-nmea-msgs, ros-noetic-roscpp, ros-noetic-roslaunch, ros-noetic-roslint, ros-noetic-rostest
+Homepage: http://wiki.ros.org/nmea_comms
+Standards-Version: 3.9.2
+
+Package: ros-noetic-nmea-comms
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-nmea-msgs, ros-noetic-roscpp
+Description: The nmea_comms package provides helper nodes for transmitting and receiving the NMEA sentences.
